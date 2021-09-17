@@ -1,0 +1,56 @@
+Hotels
+	name
+	address
+	prizeforOneDay
+	prizeforOneWeek
+	isDogAllowed
+	isWifi
+	isInTheCenter
+	isPaypal
+	Rating
+	
+	setter getter
+	setRating( 3 + 5 + 3) /3 
+	
+
+
+Bus Transportation
+	bus lines (Hashmap)
+	
+	setter getter
+	nextBusAvailable
+	
+
+Ticket
+	daily
+	monthly
+	isStudent
+	discount(BIG/SMALL)
+	
+	
+
+	
+	
+NewsTrasnportation
+	title
+	where
+	article
+	
+	setter getter
+	
+	
+
+
+supermarket
+	address
+	openhours
+	isPaypal
+
+Distances
+	distanceFromPlace (Hashmap)
+	isNight
+	
+NewsCity
+	title
+	where
+	article
